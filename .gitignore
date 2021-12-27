@@ -6,3 +6,4 @@ wisdompets/db.sqlite3
 __pycache__/
 *.py[cod]
 venv/
+.vscode/settings.json
